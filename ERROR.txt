@@ -1,0 +1,9 @@
+
+1> /usr/bin/python3: No module named pip
+
+sudo apt install python3-pip
+
+2> ModuleNotFoundError: No module named 'pyngrok'
+
+sudo pip3 install pyngrok
+
